@@ -22,7 +22,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## About Me
 
 - British & Korean Hacker
-- Started Hacking & Programming At 10
+- Started Programming At 10
+- Discord Community Owner
+- Top 10% On TryHackMe
 - I Create Frameworks & Trivia Programs
 
 
