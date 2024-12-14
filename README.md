@@ -21,15 +21,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## About Me
 
-:one: Discord Roblox Community Owner
-:two: I Create GitHub Repositories 
-:three: I Play Roblox 
-:four: Have mastered multiple areas of programming like programming close to the computers hardware and memory.<br/>
-:five: TryHackMe Top 10%
-:six: Started Programming & Hacking At 10
-:seven: 
-:eight: ">here</a></br>
-:nine: 
 
 
 
