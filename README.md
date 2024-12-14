@@ -21,6 +21,10 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## About Me
 
+- British & Korean Hacker
+- Started Hacking & Programming At 10
+- I Create Frameworks & Trivia Programs
+
 
 
 
