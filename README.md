@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - British & Korean Hacker
 - Discord Community Owner
 - Started Programming At 10
-- I Create Frameworks & Trivia Programs
+- I Create Frameworks & Country Scopes
 
 
 
