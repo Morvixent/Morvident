@@ -1,7 +1,7 @@
 # Morvixent
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Morvixent) ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white)
-
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Morvixent" alt="Profile Stars"></a>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Morvixent&theme=dark)
 
 
@@ -25,6 +25,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - Discord Community Owner
 - Started Programming At 10
 - I Create Frameworks & Country Scopes
+
 
 
 
