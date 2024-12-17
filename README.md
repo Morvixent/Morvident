@@ -25,9 +25,11 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 - British & Korean Hacker
 - Discord Community Owner
 - Started Programming At 10
-- I Create Frameworks & Country Scopes
 
 
+[![-----------------------------------------------------](
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/Kek5chen?tab=repositories)</br>
 
+# Framework Information
 
-
+- I Post Frameworks Every Time My Framework Reaches 100+ Stars
