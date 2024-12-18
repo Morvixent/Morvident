@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## 🌐 Framework Links:
 
 
-- **IP Framework**   **----->** https://github.com/Morvixent/IP-Framework
+- **IP Framework**   
 
 
 
@@ -52,6 +52,6 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## ❔ Trivia Links:
 
 
-- **History Trivia**    **----->** https://github.com/Morvixent/
-- **Capital Trivia**    **----->** https://github.com/Morvixent/
-- **Language Trivia**   **----->** https://github.com/Morvixent/
+- **History Trivia**
+- **Capital Trivia** 
+
