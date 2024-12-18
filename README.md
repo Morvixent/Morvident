@@ -6,6 +6,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Morvixent&theme=dark)
 
 
+
 ## Apps I Use:
 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
