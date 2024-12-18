@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## About Me:
 
 
-- **British & Korean Hacker**
+- **British Hacker**
 - **Discord Community Owner**
 - **Started Programming At 10**
 
