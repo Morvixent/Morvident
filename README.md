@@ -46,4 +46,4 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## ❔ Trivia Links:
 
 
-- **History Trivia**   **----->** https://github.com/Morvixent/History-Trivia
+- **History Trivia**    **----->** https://github.com/Morvixent/History-Trivia
