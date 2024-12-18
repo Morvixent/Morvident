@@ -24,9 +24,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## About Me:
 
 
-- British & Korean Hacker
-- Discord Community Owner
-- Started Programming At 10
+- **British & Korean Hacker**
+- **Discord Community Owner**
+- **Started Programming At 10**
 
 
 [![-----------------------------------------------------](
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-- IP Framework https://github.com/Morvixent/IP-Framework
+- **IP Framework**  **----->** https://github.com/Morvixent/IP-Framework
 
 
 [![-----------------------------------------------------](
