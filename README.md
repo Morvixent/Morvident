@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-## 🌐 Framework Links:
+## 🌐 My Frameworks:
 
 
 - **IP Framework**   
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
 
-## ❔ Trivia Links:
+## ❔ My Trivias:
 
 
 - **Capital Trivia** 
