@@ -52,6 +52,5 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## ❔ Trivia Links:
 
 
-- **History Trivia**
 - **Capital Trivia** 
 
