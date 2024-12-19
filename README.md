@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Morvixent" alt="Profile Stars"></a> ![followers](https://img.shields.io/github/followers/Morvixent?style=social&color=800000)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Morvixent&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Morvixent&theme=dark)
 
 
 
