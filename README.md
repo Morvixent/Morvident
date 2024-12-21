@@ -8,11 +8,11 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&count_private=true&show_icons=true&hide_title=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morvixent&count_private=true&show_icons=true&hide_title=true&theme=dark)
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&langs_count=10&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Morvixent&langs_count=10&layout=compact&theme=dark)
 
 ---
 
