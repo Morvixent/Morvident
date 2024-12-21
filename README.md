@@ -2,9 +2,9 @@
 
 
 
-s
-![Followers](https://img.shields.io/github/followers/[YourUsername]?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=[YourUsername]&color=darkblue)
+
+![Followers](https://img.shields.io/github/followers/[Morvixent]?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=[Morvixent]&color=darkblue)
 
 ### GitHub Stats
 
