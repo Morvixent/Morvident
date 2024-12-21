@@ -9,5 +9,5 @@
 
 ## Frameworks:
 
-[IP Framework](https://github.com/Morvixent/IP-Framework)
-[OSINT Framework](https://github.com/Morvixent/OSINT-Framework)
+- [IP Framework](https://github.com/Morvixent/IP-Framework)
+- [OSINT Framework](https://github.com/Morvixent/OSINT-Framework)
